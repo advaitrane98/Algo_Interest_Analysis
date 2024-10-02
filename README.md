@@ -14,6 +14,8 @@ The description of various files is as follows:
 
 'Median_CR_vs_time': Showcases the trend in Median CR of active CDPs over time
 
+'ITCR_Analysis': Showcases the effect on ITCR, due to creation of new CDP's
+
 'iUSD_algo_interest_results': Consists of the final results of the historical simulation of the algo interest mechanism.
 
 # Run on Your Own Machine.
